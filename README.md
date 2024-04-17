@@ -56,16 +56,27 @@ plt.show()
 HEAD() AND INFO():
 
 
+![image](https://github.com/23013753/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145634121/3ac75d83-62a0-4712-8e14-76b2c501ab17)
+
+
 
 NULL & COUNT:
 
+![image](https://github.com/23013753/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145634121/376d7a92-af00-4066-9747-b5818e3a9fa3)
 
+![image](https://github.com/23013753/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145634121/7307fc6c-e053-4c9b-8899-fb8f404b4841)
 
 
 ACCURACY SCORE:
 
 
+![image](https://github.com/23013753/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145634121/0bf71376-1ac5-4623-a8be-997e8ed443b6)
+
+
 DECISION TREE CLASSIFIER MODEL
+
+
+![image](https://github.com/23013753/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/145634121/585ba51a-a02a-4b9c-a2e8-2cc75a553583)
 
 
 
